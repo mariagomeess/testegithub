@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-15 18:14:52</sys_created_on>
+        <sys_id>ca129a5583a522106b20e290ceaad30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1366442_testegit_teste1.x_1366442_testegit.user</sys_name>
+        <sys_package display_value="TesteGitHub" source="x_1366442_testegit">0de98ad9836522106b20e290ceaad39c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TesteGitHub">0de98ad9836522106b20e290ceaad39c</sys_scope>
+        <sys_security_acl display_value="x_1366442_testegit_teste1">ca129a5583a522106b20e290ceaad309</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ca129a5583a522106b20e290ceaad30c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-15 18:14:52</sys_updated_on>
+        <sys_user_role display_value="x_1366442_testegit.user" name="x_1366442_testegit.user">11e90ed9836522106b20e290ceaad3b7</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
